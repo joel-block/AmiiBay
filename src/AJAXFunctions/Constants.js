@@ -5,7 +5,7 @@
 
 
 const production = {
-  url: "https://team-ram-rod.herokuapp.com/api",
+  url: "https://amiibay-joel.herokuapp.com/api",
 };
 
 const development = {
